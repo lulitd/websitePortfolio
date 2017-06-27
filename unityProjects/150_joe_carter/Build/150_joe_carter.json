@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "150_joe_carter.data.unityweb",
+"asmCodeUrl": "150_joe_carter.asm.code.unityweb",
+"asmMemoryUrl": "150_joe_carter.asm.memory.unityweb",
+"asmFrameworkUrl": "150_joe_carter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
